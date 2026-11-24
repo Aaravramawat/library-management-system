@@ -1,0 +1,14 @@
+SAMPLE RUN AND TEST RECORD
+Project: Library Book Management System
+Team: AP coders
+
+Suggested checks:
+1. Display all books (menu option 1).
+2. Search for ID 101 (menu option 2).
+3. Search for an ID that does not exist, such as 999.
+4. Issue ID 101 (menu option 3).
+5. Try issuing ID 101 again.
+6. Return ID 101 (menu option 4).
+7. Try returning ID 101 again.
+8. Enter an invalid menu choice.
+9. Exit using option 5.
